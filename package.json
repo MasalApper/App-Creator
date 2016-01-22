@@ -1,23 +1,23 @@
 {
-  "name": "app-creator",
-  "version": "1.0.0",
-  "description": "An Application to Create Dynamic Web Applications",
-  "main": "index.html",
+  "name": "docapper",
+  "version": "0.0.0",
+  "description": "An application to create well documented web applications dynamically",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MasalApper/App-Creator.git"
+    "url": "git+https://github.com/MasalApper/Docapper.git"
   },
   "keywords": [
-    "app-creator",
+    "docapper",
     "masalapper"
   ],
-  "author": "MasalDevelopers",
+  "author": "MasalDeveloper masalapper",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/MasalApper/App-Creator/issues"
+    "url": "https://github.com/MasalApper/Docapper/issues"
   },
-  "homepage": "https://github.com/MasalApper/App-Creator#readme"
+  "homepage": "https://github.com/MasalApper/Docapper#readme"
 }
