@@ -1,0 +1,23 @@
+{
+  "name": "app-creator",
+  "version": "1.0.0",
+  "description": "An Application to Create Dynamic Web Applications",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasalApper/App-Creator.git"
+  },
+  "keywords": [
+    "app-creator",
+    "masalapper"
+  ],
+  "author": "MasalDevelopers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MasalApper/App-Creator/issues"
+  },
+  "homepage": "https://github.com/MasalApper/App-Creator#readme"
+}
